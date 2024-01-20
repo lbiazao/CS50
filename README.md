@@ -1,2 +1,2 @@
 # CS50
-Treinamento de Python CS50
+Introduction to Python CS50
